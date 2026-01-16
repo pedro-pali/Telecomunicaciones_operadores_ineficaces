@@ -113,3 +113,9 @@ Puede haber otros factores más influyentes externos.
 - ID = 945286,    0.9%
 - ID = 945904,    0.9%
 - ID = 945900,    1.0%
+
+## Paso 3. Hipótesis estadística
+Realizamos histogramas y gráficos Q-Q para visualizar si los datos tienen una distribución normal, a lo que noté que no es así, por lo tanto, y como las poblaciones son en tamaños muy diferente entre una y otra decidí realizar el test de Mann_Whitney_U.
+
+### Conclusiones:
+Del top 20 con los niveles más altos según los tres rubros para catalogar si un operador es ineficiente hemos obtenido a través de una hipótesis Mann_Whitney_U que en todos los casos, existe evidencia estadística de diferencia entre las distribuciones. En otras palabras, hay una diferencia real y no producto del azar entre el top 20 de cada rubro y el resto de los operadores.
